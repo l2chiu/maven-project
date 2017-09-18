@@ -25,6 +25,19 @@ This is my Maven project from MuleSoft's advanced development class
 1. git push origin master
 
 
+## How to update project files
+
+1. Make changes
+
+1. git add .
+
+1. git commit -am "Added Changes"
+
+1. git push origin master
+
+For above, combine 2 commands:
+1. git add . && git commit -am "Format change"
+
 Ignore everything below:
 
 1. (Optional) Set your MULE_HOME env variable: `export MULE_HOME={locationOfMuleInstall}`
