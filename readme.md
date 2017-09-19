@@ -43,3 +43,24 @@ Ignore everything below:
 1. (Optional) Set your MULE_HOME env variable: `export MULE_HOME={locationOfMuleInstall}`
 
 1. Package and deploy: `mvn install`
+
+
+## Internal
+
+1. Create Repo in Github
+
+1. Go to folder of Project
+
+1. git init
+
+1. Copy .gitignore file
+
+1. Verify files with git status
+
+1. git Add .
+
+1. git commit -am "Initial Commit"
+
+1. git remote add origin https://github.com/{yourGithubUser}/maven-project.git`
+
+1. git push origin master
