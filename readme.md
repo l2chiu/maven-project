@@ -63,4 +63,6 @@ Ignore everything below:
 
 1. git remote add origin https://github.com/{yourGithubUser}/maven-project.git`
 
+1. git pull origin master --allow-unrelated-histories (if Readme.MD created)
+
 1. git push origin master
